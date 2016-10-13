@@ -2,6 +2,7 @@
     "name": "spiral/flatpickr",
     "description": "Flatpickr wrapper for Spiral",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Alex Chepura",
