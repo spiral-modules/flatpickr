@@ -1,0 +1,20 @@
+{
+    "name": "spiral/flatpickr",
+    "description": "Flatpickr wrapper for Spiral",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex Chepura",
+            "email": "alex@spiralscout.com"
+        }
+    ],
+    "require": {
+        "spiral/framework": "*",
+        "spiral/toolkit": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Spiral\\": "source/"
+        }
+    }
+}
